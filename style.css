@@ -11,10 +11,10 @@ body {
 
 .main {
     background-color: white;
-    padding: 30px;
+    padding: 25px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
+    width: 320px;
     text-align: center;
 }
 
@@ -47,6 +47,7 @@ p {
 .buttons {
     display: flex;
     justify-content: space-between;
+    padding: 4px;
 }
 
 .arrowbtn {
